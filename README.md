@@ -3,5 +3,4 @@
 (unit tests and voice search are not implemented)
 1. [Demo](https://weather-app-rsschool.netlify.com/)
 1. Screenshot
-![ScreenShot](https://www.dropbox.com/s/cc0q4qv1107atbl/screenshot.JPG?dl=0)
-
+![screenshot](https://user-images.githubusercontent.com/51874064/75384108-3ef22380-58e6-11ea-9c79-8d459e0014d4.JPG)
